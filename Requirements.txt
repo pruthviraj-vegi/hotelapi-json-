@@ -1,0 +1,4 @@
+ttkthemes == 3.2.2
+reportlab == 3.6.9
+tkPdfViewer == 0.1
+pywin32 == 303
